@@ -113,7 +113,7 @@ app.html
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 HURAMA Pharma HARISHA S(212223040063) </p>
+    <p>&copy; 2024 HURAMA Pharma VIGNESH M(212223240176) </p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -205,7 +205,7 @@ app.html
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 HURAMA Pharma HARISHA S(212223040063)</p>
+    <p>&copy; 2024 HURAMA Pharma VIGNESH M(212223240176)</p>
   </footer>
 
 </body>
@@ -285,7 +285,7 @@ app.html
     
     </section>
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 HURAMA Pharma HARISHA S(212223040063)</p>
+    <p>&copy; 2024 HURAMA Pharma VIGNESH M(212223240176)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -366,7 +366,7 @@ app.html
     
     </section>
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 HURAMA Pharma HARISHA S(212223040063)</p>
+    <p>&copy; 2024 HURAMA Pharma VIGNESH M(212223240176)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
