@@ -380,13 +380,17 @@ app.html
 
 ## OUTPUT:
 
-https://github.com/HARISHA2006/Pharma/blob/main/Screenshot%202024-05-09%20042501.png
+![image](https://github.com/vigneshvickyu/Pharma/assets/151948835/1dfec5a7-6534-407a-89ee-45f868e3ee32)
 
-https://github.com/HARISHA2006/Pharma/blob/main/Screenshot%202024-05-09%20043943.png
+![image](https://github.com/vigneshvickyu/Pharma/assets/151948835/b1c64c8d-37a4-46f7-8acb-8c197dc64e2b)
 
-https://github.com/HARISHA2006/Pharma/blob/main/Screenshot%202024-05-09%20043951.png
+![image](https://github.com/vigneshvickyu/Pharma/assets/151948835/5d5a49e6-b91e-4b58-b646-e2568de7a0e9)
 
-https://github.com/HARISHA2006/Pharma/blob/main/Screenshot%202024-05-09%20044004.png
+![image](https://github.com/vigneshvickyu/Pharma/assets/151948835/b4438ce0-2e2d-4fce-8d5a-001d65a3ecb1)
+
+
+
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
